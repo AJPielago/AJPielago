@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alex Joyous Pielago</h1>
 
 <h3 align="center">
-🚀 System Developer | 🤖 AI & Machine Learning Enthusiast | 🌱 Smart & Sustainable Tech Builder
+ System Developer |  AI & Machine Learning Enthusiast |  Smart & Sustainable Tech Builder
 </h3>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ## 🧠 About Me
 
-- 💻 I build **full-stack systems** using modern web technologies  
-- 🤖 I integrate **AI & Machine Learning** into real-world applications  
-- 🌱 I focus on **sustainable, smart, and SDG-aligned systems**  
-- 🧩 I enjoy **system architecture & design** as much as coding  
+-  I build **systems** using modern web technologies  
+-  I integrate **AI & Machine Learning** into real-world applications  
+-  I focus on **sustainable, smart, and SDG-aligned systems**  
+-  I enjoy **system architecture & design** as much as coding  
 
 > *I don’t just code features — I design systems.*
 
