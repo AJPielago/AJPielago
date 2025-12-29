@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=+Building+systems+that+solve+real-world+problems;AI+%7C+IoT;Turning+ideas+into+impactful+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+systems+for+real-world+problems;AI+%7C+IoT;Turning+ideas+into+impactful+solutions" alt="Typing SVG" />
 </p>
 
 ---
