@@ -83,7 +83,7 @@ Designed for low-temperature crops:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AJPielago&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AJPielago&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
