@@ -36,18 +36,18 @@
 
 ### ♻️ Green Bin System
 Smart waste management platform with:
-- 🚛 Real-time garbage truck tracking  
-- 📢 Issue reporting & notifications  
-- 🌍 Environmental awareness hub  
-- 👥 Role-based access (Admin, Resident, Collector)
+-  Real-time garbage truck tracking  
+-  Issue reporting & notifications  
+-  Environmental awareness hub  
+-  Role-based access (Admin, Resident, Collector)
 
 ---
 
 ### 🛒 Lara Shop
 Laravel-based online shop featuring:
-- 📦 Product CRUD with image upload & preview  
-- 🎨 Tailwind CSS UI  
-- 🔐 Admin management system  
+-  Product CRUD with image upload & preview  
+-  Tailwind CSS UI  
+-  Admin management system  
 
 ---
 
@@ -60,9 +60,9 @@ Designed for low-temperature crops:
 ---
 
 ### 🧪 AI & Research Projects
-- 🛣️ Road damage detection using CNN  
-- 🎥 Smart surveillance for contagious disease detection  
-- ⚔️ AI in warfare (research study)  
+-  Road damage detection using CNN  
+-  Smart surveillance for contagious disease detection  
+-  AI in warfare (research study)  
 
 ---
 
